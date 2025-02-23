@@ -23,3 +23,6 @@ in order to boot flymeos on a53:
 
 
 flash [android_kernel_samsung_a53x-FireAsf/releases/tag/5.1](https://github.com/Ksawlii/android_kernel_samsung_a53x-FireAsf/releases/tag/5.1) and then file `FireAsf-5.1-Vanilla-StableAsf-00.20.tar` via odin3 i recommend [Odin3_v3.13.1_3B_Patched_Samfw.com.rar](https://samfw.com/Odin/Odin3_v3.13.1_3B_Patched_Samfw.com.rar) then use [TWRP-a53x](https://twrp.me/samsung/samsunggalaxya53.html) to flash the rom via Fastboot
+
+> [!Note]
+> i'm working on patching this gsi for a53, so the phone would work normally.
