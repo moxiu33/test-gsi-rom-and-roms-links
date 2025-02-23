@@ -1,4 +1,4 @@
-# test-gsi-rom-links
+# test-gsi-rom-and-roms-links
 gsi links i found:
 
 ## OxygenOS
