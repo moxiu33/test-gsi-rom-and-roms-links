@@ -1,5 +1,5 @@
 # test-gsi-rom-and-roms-links
-gsi links i found:
+rom links i found:
 
 ## OxygenOS
 OxygenOS 15 [fuxi] (testoos_gsi):
