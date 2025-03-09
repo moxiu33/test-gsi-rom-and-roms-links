@@ -36,6 +36,10 @@ adb reboot
 > [!Note]
 > i'm working on patching this gsi for a53, so the phone would work normally.
 
+> [!Important] 
+> if you want to fix ui flickering turn on `disable he overlays` in developer options. 
+
+
 -------
 
 **FlymeOS 10 (umi-mi11):**
