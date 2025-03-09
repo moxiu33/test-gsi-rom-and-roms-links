@@ -75,7 +75,7 @@ Boot into recovery and format data (any recovery works)
 
 **Bugless Flyme 10 for Mi 10 (umi)**
 
-patched by @salsasunny
+patched by @salsasunny on telegram
 
 bugs: read the title again
 
