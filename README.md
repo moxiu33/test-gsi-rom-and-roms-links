@@ -70,3 +70,13 @@ Run the included install_ROM.bat file (press Y and Y for root or Y and N for no 
 If it fails at the last step just flash super.img manually
 
 Boot into recovery and format data (any recovery works)
+
+-------
+
+**Bugless Flyme 10 for Mi 10 (umi)**
+
+patched by @salsasunny
+
+bugs: read the title again
+
+[Download](https://drive.google.com/file/d/1ECZdMMc40sax8ENCJU0sy8mtQZ_cofO4/view?usp=sharing) 
