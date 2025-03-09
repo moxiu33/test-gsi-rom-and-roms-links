@@ -37,7 +37,7 @@ adb reboot
 > i'm working on patching this gsi for a53, so the phone would work normally.
 
 > [!Important] 
-> if you want to fix ui flickering turn on `disable he overlays` in developer options. 
+> if you want to fix ui flickering turn on `disable HW Overlays` in developer options. 
 
 
 -------
